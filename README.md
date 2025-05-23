@@ -44,6 +44,5 @@ This repository includes general documentation and sanitized sample models to de
 
 **Tejas Chhajer**  
 Advanced Manufacturing Intern @ Doosan Bobcat  
-[LinkedIn](https://www.linkedin.com/in/tchhajer/)
-"""
+[LinkedIn](https://www.linkedin.com/in/tejaschhajer/)
 
